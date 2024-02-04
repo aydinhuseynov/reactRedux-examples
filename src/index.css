@@ -1,0 +1,17 @@
+.active{
+    background-color: blue;
+    color: #fff;
+    border-radius: 5px;
+    border-color: transparent;
+    padding: 5px;
+    font-size: 18px;
+    margin: 5px;
+}
+.dark{
+    background: #000;
+    color: #fff;
+}
+.white{
+    background: coral;
+    color: #000;
+}
